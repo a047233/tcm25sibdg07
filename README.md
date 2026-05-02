@@ -11,21 +11,21 @@ Este projeto baseia-se no desenvolvimento de um sistema de base de dados para aj
 
 # Relatórios:
 
-Relatório de Especificação da Informação - REI
+- Relatório de Especificação da Informação - REI
 
-Relatório de Especificação da Base de Dados - REBD
+- Relatório de Especificação da Base de Dados - REBD
 
-Relatório de Produto -
+- Relatório de Produto -
 
 
 # Tecnologias:
 
-Microsoft Word
+- Microsoft Word
 
-Markdown
+- Markdown
 
-Dia
+- Dia
 
-Wamp server
+- Wamp server
 
-MySQL Workbench
+- MySQL Workbench
