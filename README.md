@@ -11,7 +11,7 @@ Este projeto baseia-se no desenvolvimento de um sistema de base de dados para aj
 
 # Relatórios:
 
-- Relatório de Especificação da Informação - [REI]()
+- Relatório de Especificação da Informação - [REI](https://github.com/tcm25sibdg07/tcm25sibdg07_/blob/main/Proposta%20de%20texto%20para%20enunciado%20do%20trabalho.pdf)
 
 - Relatório de Especificação da Base de Dados - [REBD]()
 
