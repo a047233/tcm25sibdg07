@@ -1,19 +1,12 @@
-# Projeto de:
+# tcm25sibdg07
 
-UC Sistemas de Informação e Bases de dados
+Repositório para o trabalho da UC Sistemas de Informação e Bases de dados, da Universidade da Maia.
 
-Docente: Marco Oliveira
-
-tcm25sibdg07:
-Hossana Van-Dunén A0 / Kativania Gomes A0 / Marta Gomes A047233
+Feito por Hossana Van-Duném @hossanavandunem16-tech, Kativania Gomes @KativaniaGomes e Marta Gomes @a047233.
 
 
-
-# Enunciado:
-
-
-# Proposta de trabalho:
-
+# Descrição:
+Este projeto baseia-se no desenvolvimento de um sistema de base de dados para ajudar na gestão de um estúdio de gravação musical que disponibiliza espaços equipados para artistas produzirem conteúdos áudio, como músicas, podcasts ou narrações.
 
 
 # Relatórios:
@@ -24,16 +17,15 @@ Relatório de Especificação da Base de Dados - REBD
 
 Relatório de Produto -
 
-# Galeria:
-
-# Organização do Repositório:
 
 # Tecnologias:
 
 Microsoft Word
 
+Markdown
+
 Dia
 
 Wamp server
 
- MySQL Workbench
+MySQL Workbench
