@@ -2,7 +2,7 @@
 
 Repositório para o trabalho da UC Sistemas de Informação e Bases de dados, da Universidade da Maia.
 
-Feito por Hossana Van-Duném @hossanavandunem16-tech, Kativania Gomes @KativaniaGomes e Marta Gomes @a047233.
+Feito por [Hossana Van-Duném](https://github.com/hossanavandunem16-tech), [Kativania Gomes](https://github.com/KativaniaGomes) e [Marta Gomes](https://github.com/a047233).
 
 
 # Descrição:
@@ -11,11 +11,11 @@ Este projeto baseia-se no desenvolvimento de um sistema de base de dados para aj
 
 # Relatórios:
 
-- Relatório de Especificação da Informação - REI
+- Relatório de Especificação da Informação - [REI]()
 
-- Relatório de Especificação da Base de Dados - REBD
+- Relatório de Especificação da Base de Dados - [REBD]()
 
-- Relatório de Produto -
+- Relatório de Produto - []()
 
 
 # Tecnologias:
